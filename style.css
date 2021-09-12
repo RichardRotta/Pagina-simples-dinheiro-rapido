@@ -1,0 +1,321 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body, html{
+    height: 100%;
+}
+
+body{
+    /*background-color: white;*/
+}
+
+.divpai{
+    /*background-color: rgb(240, 241, 240);*/
+    width: 100%;
+}
+
+.menu{
+    background-color: rgb(46, 148, 192);
+    /*background-color:#c8a2c8;*/
+    width: 100%;
+    height: 210px;
+    display: inline-block;
+}
+
+/*.menu > h1{
+    font-size: 50px;
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    font-family: 'Inter', 'Overpass', sans-serif;
+    box-sizing: border-box;
+    font-style: italic;
+    font-variant: small-caps;
+}*/
+
+/*.menu > img{
+    margin: 20px auto;
+    display: block;
+    width: 400px;
+    box-sizing: border-box;
+}*/
+/*Logo-1*/
+
+.menu > img{
+    margin: 10px auto;
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    /*box-sizing: border-box;*/
+}
+
+.container{
+    height: 100%;
+    max-width: 1660px;
+    /*max-width: 3840px;
+    max-height: 2160px;*/
+    margin: 0 auto;
+}
+
+.apresentação{
+    /*background-color: rgb(196, 196, 196);*/
+    margin: 80px 10px 0 10px;
+}
+
+.apresentação > h1{
+    font-size: 40px;
+    color: #212529;
+    text-align: center;
+    font-family: 'Bitter', 'Inter', 'Overpass', sans-serif;
+    /*font-variant: small-caps;*/
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.apresentação > p{
+    font-family: 'Overpass', 'Inter', 'Bitter', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: left;
+    color:  #30333c;
+    font-style: italic;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.borda-baixo{
+    margin: 30px 75% 30px 30px;
+    /*border-bottom: 5px solid #c8a2c8;*/
+    border: 3px solid rgba(46, 148, 192, 0.6);
+}
+
+.conteúdo{
+    /*background-color: rgb(196, 196, 196);*/
+    margin: 70px 10px 0 10px;
+}
+
+.site-1 img{
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    /*border: 1px solid black*/
+}
+
+.titulo-1{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 35px;
+    color: #212529;
+    text-align: left;
+    font-family: 'Bitter', 'Inter', 'Overpass', sans-serif;
+    margin-left: 20px;
+    /*width: 100%;
+    max-width: 1920px;*/
+    /*font-variant: small-caps;*/
+}
+
+.conteúdo-1{
+    font-family: 'Overpass', 'Inter', 'Bitter', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: left;
+    color:  #30333c;
+    font-style: italic;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.link-1{
+    font-family: 'Overpass', 'Inter', 'Bitter', sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: left;
+    color:  #30333c;
+    font-style: italic;
+    margin-bottom: 40px;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.link-1 a:hover{
+    color: #e7661c;
+}
+
+.site-2 img{
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    /*border: 1px solid black*/
+
+}
+
+.titulo-2{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 35px;
+    color: #212529;
+    text-align: left;
+    font-family: 'Bitter', 'Inter', 'Overpass', sans-serif;
+    margin-left: 20px;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.conteúdo-2{
+    font-family: 'Overpass', 'Inter', 'Bitter', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: left;
+    color:  #30333c;
+    font-style: italic;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.link-2{
+    font-family: 'Overpass', 'Inter', 'Bitter', sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: left;
+    color:  #30333c;
+    font-style: italic;
+    margin-bottom: 40px;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.link-2 a:hover{
+    color: #007fed;
+}
+
+.site-3 img{
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    /*border: 1px solid black*/
+
+}
+
+.titulo-3{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 35px;
+    color: #212529;
+    text-align: left;
+    font-family: 'Bitter', 'Inter', 'Overpass', sans-serif;
+    margin-left: 20px;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.conteúdo-3{
+    font-family: 'Overpass', 'Inter', 'Bitter', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: left;
+    color:  #30333c;
+    font-style: italic;
+    margin-bottom: 40px;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.link-3{
+    font-family: 'Overpass', 'Inter', 'Bitter', sans-serif;
+    font-size: 20px;
+    margin-top: 15px;
+    text-align: left;
+    color:  #30333c;
+    font-style: italic;
+    margin-bottom: 40px;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.link-3 a:hover{
+    color: #159245;
+}
+
+.borda-baixo-2{
+    margin: 90px 5%;
+    /*border-bottom: 5px solid #c8a2c8;*/
+    border: 1px solid rgba(46, 148, 192, 0.6);
+}
+
+.declaração-final{
+    /*background-color: rgb(196, 196, 196);*/
+    margin: 70px 10px 0 10px;
+}
+
+.declaração-final li{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 35px;
+    color: #212529;
+    text-align: left;
+    font-family: 'Bitter', 'Inter', 'Overpass', sans-serif;
+    margin-left: 58px;
+    list-style-type: square;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.declaração-final p{
+    font-family: 'Overpass', 'Inter', 'Bitter', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: left;
+    color:  #30333c;
+    font-style: italic;
+    margin-bottom: 40px;
+    /*width: 100%;
+    max-width: 1920px;*/
+}
+
+.declaração-final iframe{
+    margin: 0 auto;
+    display: block;
+    /*border: 1px solid black*/
+    margin-bottom: 190px;
+    margin-top: 80px;
+    width: 100%;
+    max-width: 560px;
+}
+
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(19, 112, 151);
+}
+
+/*.rodapé > h1{
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 400px;
+    font-size: 35px;
+    color: #1e2124;
+    font-family: 'Bitter', 'Inter', 'Overpass', sans-serif;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
+.rodapé a > img{
+    margin-top: 5px;
+    padding-right: 6px;
+    box-sizing: border-box;
+}*/
+
+footer > img{
+    width: 200px;
+    margin: 0 auto;
+    display: block;
+    box-sizing: border-box;
+    padding-top: 10px;
+    max-width: 200px;
+}
