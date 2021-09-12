@@ -17,7 +17,7 @@
 <div align="left">
   <h1 id="sobre"> ✅ Sobre o projeto </h1>
   <p>
-	Eu fiz uma página simples para conseguir treinar meus conhecimentos, visando cada vez mais poder melhorar meus projétos e me desenvolver mais como programador!
+	Eu fiz uma página simples para conseguir treinar meus conhecimentos, visando cada vez mais poder melhorar meus projetos e me desenvolver como programador!
   </p>
 </div>
 
